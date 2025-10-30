@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Matlab , Spyder'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Cardenas Manzo '
+    family-names: Kenia
+    email: kenia.cardenas201@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/keniacardenasm/Practica3MSF'
+keywords:
+  - 'Sistema musculoesquelético '
+  - Circuito RC
+  - modelado matematico
+  - controlador PID
+  - simulación numérica
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-29'
