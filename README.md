@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Cardenas Manzo Kenia \[20210773]; kenia.cardenas201@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
